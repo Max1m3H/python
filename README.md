@@ -1,3 +1,3 @@
-# Mes différents programmes
+#Python
 
-Voici un regroupement de différents projets menés pendant ma scolarité et dans mon temps libre.
+Voici un regroupement de différents projets réalisés dans le langage python.
